@@ -87,6 +87,7 @@ The injection was tested against the following frontier models:
 | Claude Sonnet 4 | ✅ Injected |
 | Google Gemini 3 | ✅ Injected |
 | Grok 4 (xAI) | ✅ Injected |
+| Microsoft Copilot | ✅ Injected |
 | Mistral AI (latest) | ✅ Injected |
 
 ## Attack Chain
